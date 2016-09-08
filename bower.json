@@ -1,0 +1,26 @@
+{
+  "name": "angular-fields",
+  "main": "angular-fields.js",
+  "homepage": "https://github.com/willcrisis/angular-fields",
+  "authors": [
+    "Willian Krause <krause.willian@gmail.com>"
+  ],
+  "description": "Fields for AngularJS",
+  "keywords": [
+    "fields",
+    "angular",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-messages": "^1.5.8"
+  }
+}
